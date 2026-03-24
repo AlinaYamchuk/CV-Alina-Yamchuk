@@ -8,7 +8,7 @@ Hey, nice to meet you, I'm Alina!
 🚀 I am currently looking for my first professional role in Game QA and am open to new opportunities!
 
 ## CV
-Please, find [my CV](https://drive.google.com/file/d/1Xl9JmsC3iFqyYJNVq-K-nHNjIKzgrsAs/view?usp=sharing). 
+Please, find [my CV](). 
 
 ## GameDev QA Portfolio*
 
