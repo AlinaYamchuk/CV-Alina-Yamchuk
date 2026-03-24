@@ -8,15 +8,15 @@ Hey, nice to meet you, I'm Alina!
 🚀 I am currently looking for my first professional role in Game QA and am open to new opportunities!
 
 ## CV
-Please, find [my CV* using this link](https://www.cvmaker.com/). 
+Please, find [my CV](https://drive.google.com/file/d/1Xl9JmsC3iFqyYJNVq-K-nHNjIKzgrsAs/view?usp=sharing). 
 
 ## GameDev QA Portfolio*
 
 **This project is a non-commercial case study conducted for educational purposes. All game titles, assets, and trademarks are the property of their respective owners.*
 | Link                    | Description  |
 |:-----------------------| :-----:|
-| [Test cases]([https://app.testomat.io/projects/gamedev-test/)]) | To see detailed steps to reproduce and expected result, click on the summary/title of each test case |
-| [Bug reports](https://github.com/oleksandr-gamedev-qa/GameDevQA-portfolio-example/issues)      |   Bug reports are screenshots from Jira |
-| [Test plan]([https://qatestlab.com/resources/knowledge-center/sample-deliverables/test-plan/](https://docs.google.com/document/d/11oU4wkFKNutjB-DtKbfbxzAES49aYs7DUycXvn6TM6M/edit?usp=sharing))      |    Outliens scope, objectives, and testing methodology |
-| [Checklist]([https://www.checkli.com/](https://docs.google.com/document/d/1Svi_ZgzpNZCWXExQpYWST6QiJv7GAqjGCHPQ1d3NIWY/edit?usp=sharing))      |    High-level functional checklist used for quick feature verification |
+| [Test cases](https://app.testomat.io/projects/gamedev-test/) | To see detailed steps to reproduce and expected result, click on the summary/title of each test case |
+| [Bug reports](https://github.com/AlinaYamchuk/CV-Alina-Yamchuk/issues/1)      |   Bug reports are screenshots from Jira |
+| [Test plan](https://docs.google.com/document/d/11oU4wkFKNutjB-DtKbfbxzAES49aYs7DUycXvn6TM6M/edit?usp=sharing)      |    Outliens scope, objectives, and testing methodology |
+| [Checklist](https://docs.google.com/document/d/1Svi_ZgzpNZCWXExQpYWST6QiJv7GAqjGCHPQ1d3NIWY/edit?usp=sharing)      |    High-level functional checklist used for quick feature verification |
 | [Final test report](https://www.testrail.com/blog/test-reporting-success/)      |    A summary report detailing testing results and bug distribution |
