@@ -19,4 +19,4 @@ Please, find [my CV](https://drive.google.com/file/d/1IiVyBJoxk_nr06xgAuv4wPglyC
 | [Bug reports](https://github.com/AlinaYamchuk/CV-Alina-Yamchuk/issues/1)      |   Bug reports are screenshots from Jira |
 | [Test plan](https://docs.google.com/document/d/11oU4wkFKNutjB-DtKbfbxzAES49aYs7DUycXvn6TM6M/edit?usp=sharing)      |    Outliens scope, objectives, and testing methodology |
 | [Checklist](https://docs.google.com/spreadsheets/d/1LEH9UNvpbVyPncA_Y_40IFsTpdpK0YCGZnVdNVHhkxk/edit?usp=sharing)      |    High-level functional checklist used for quick feature verification |
-| [Final test report](https://www.testrail.com/blog/test-reporting-success/)      |    A summary report detailing testing results and bug distribution |
+| [Final test report](https://docs.google.com/document/d/1l-m1VS4Y2gSD6n-dLU4nkmfXLA1CoU4uatInFcV2RJc/edit?usp=sharing)      |    A summary report detailing testing results and bug distribution |
