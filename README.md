@@ -20,3 +20,4 @@ Please, find [my CV](https://drive.google.com/file/d/1t_XnZW92zHixc_Z9YtipbR8SlW
 | [Test plan](https://docs.google.com/document/d/11oU4wkFKNutjB-DtKbfbxzAES49aYs7DUycXvn6TM6M/edit?usp=sharing)      |    Outliens scope, objectives, and testing methodology |
 | [Checklist](https://docs.google.com/spreadsheets/d/1LEH9UNvpbVyPncA_Y_40IFsTpdpK0YCGZnVdNVHhkxk/edit?usp=sharing)      |    High-level functional checklist used for quick feature verification |
 | [Final test report](https://docs.google.com/document/d/1l-m1VS4Y2gSD6n-dLU4nkmfXLA1CoU4uatInFcV2RJc/edit?usp=sharing)      |    A summary report detailing testing results and bug distribution |
+| [Certificate](https://drive.google.com/file/d/16XjaUTpIgLJNcHeyE8m_7Rddr5MXpS1r/view?usp=sharing)      |    Сertificate of completion of courses |
